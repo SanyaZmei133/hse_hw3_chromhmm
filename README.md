@@ -1,7 +1,8 @@
 # hse_hw3_chromhmm
 
-Клеточная линия - А549
-Контроль - wgEncodeBroadHistoneA549ControlDex100nmAlnRep1.bam 
+Клеточная линия - А549     
+Контроль - wgEncodeBroadHistoneA549ControlDex100nmAlnRep1.bam      
+[работа c google colab](https://colab.research.google.com/drive/1eRLVGj3Y9n7jOmH9tADmuyT5izP1-XVU?usp=sharing)     
 
 ## Гистоновые Метки
 
