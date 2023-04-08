@@ -2,7 +2,7 @@
 
 Клеточная линия - А549     
 Контроль - wgEncodeBroadHistoneA549ControlDex100nmAlnRep1.bam      
-[работа c google colab](https://colab.research.google.com/drive/1eRLVGj3Y9n7jOmH9tADmuyT5izP1-XVU?usp=sharing)     
+[Работа c google colab](https://colab.research.google.com/drive/1eRLVGj3Y9n7jOmH9tADmuyT5izP1-XVU?usp=sharing)     
 
 ## Гистоновые Метки
 
@@ -33,3 +33,11 @@ H3k9me3 | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam
 |A549	                |H3k79me2	         |H3k79me2.bam	|Control.bam    |
 |A549	                |H3k9ac	         |H3k09ac.bam|Control.bam    |
 |A549	                |H3k9me3	             |H3k09me3.bam	  |Control.bam    |
+
+## ChromHMM
+
+![Image](ChromHMM/A549_15_RefSeqTES_neighborhood.png)
+![Image](ChromHMM/A549_15_RefSeqTSS_neighborhood.png)
+![Image](ChromHMM/A549_15_overlap.png)
+![Image](ChromHMM/emissions_15.png)
+![Image](ChromHMM/transitions_15.png)
