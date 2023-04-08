@@ -41,3 +41,20 @@ H3k9me3 | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam
 ![Image](ChromHMM/A549_15_overlap.png)
 ![Image](ChromHMM/emissions_15.png)
 ![Image](ChromHMM/transitions_15.png)
+
+## Табличка эпигенетических типов
+
+|Название типа                         |Гистоновые метки |Типичное расположение |
+|:------------------------------------:|:---------------:|:--------------------:|
+|1 Active Promoter                     | H3k27me3 |Genome, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS2kb, laminB1lads|
+|2 Weak Promoter                       | - |Genome, laminB1lads|
+|3 Inactive/poised Promoter            | H3k9me3 |Genome, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS2kb, laminB1lads|
+|4 Strong enhancer                     | H3k9me3 , H3k36me3, H3k79me2|RefSeqExon, RefSeqGene, RefSeqTES|
+|5 Strong enhancer                     | H3k36me3|Genome, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS2kb|
+|6 Weak/poised enhancer                | H3k36me3, H3k79me2|RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS2kb|
+|7 Weak/poised enhancer                | H3k4me1, H3k4me2, H3k36me3, H3k79me2|RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS2kb, laminB1lads|
+|8 Insulator                           | H3k4me1|RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb, laminB1lads|
+|9 Transcriptional transition          | H2az, H3k4me1, H3k4me2, H3k4me3, H3k27ac, H3k9ac|Genome, RefSeqExon, RefSeqTES, RefSeqTSS2kb, laminB1lads|
+|10 Transcriptional elongation         | H2az, H3k4me2, H3k4me3, H3k9ac, H3k27ac, H3k4me1|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb, laminB1lads|
+|11 Weak transcribed                   | H2az, H3k4me2, H3k4me3, H3k9ac, H3k27ac, H3k79me2|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb, laminB1lads|
+|12 Polycomb-repressed                 | H3k4me2, H3k4me3, H3k9ac, H3k27ac|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb|
