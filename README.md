@@ -58,3 +58,8 @@ H3k9me3 | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam
 |10 Transcriptional elongation         | H2az, H3k4me2, H3k4me3, H3k9ac, H3k27ac, H3k4me1|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb, laminB1lads|
 |11 Weak transcribed                   | H2az, H3k4me2, H3k4me3, H3k9ac, H3k27ac, H3k79me2|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb, laminB1lads|
 |12 Polycomb-repressed                 | H3k4me2, H3k4me3, H3k9ac, H3k27ac|CpGIsland, RefSeqExon, RefSeqGene, RefSeqTES, RefSeqTSS, RefSeqTSS2kb|
+
+# UCSC Genome Browser
+
+![Image](ChromHMM/Screenshot_1.png)
+![Image](ChromHMM/Screenshot_2.png)
